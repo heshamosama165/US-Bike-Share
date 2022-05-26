@@ -67,3 +67,8 @@ I will learn about bike share use in Chicago, New York City, and Washington by c
     counts of each user type
     counts of each gender (only available for NYC and Chicago)
     earliest, most recent, most common year of birth (only available for NYC and Chicago)
+    
+# User input(Green)
+![image](https://user-images.githubusercontent.com/106331921/170534902-d4236232-fb53-450a-98ba-de51e5a5d27f.png)
+
+
