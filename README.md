@@ -71,7 +71,9 @@ I will learn about bike share use in Chicago, New York City, and Washington by c
 # User input ( Green Font )
 ![image](https://user-images.githubusercontent.com/106331921/170534902-d4236232-fb53-450a-98ba-de51e5a5d27f.png)
 
-#User Output
+
+# User Output
+
 ![image](https://user-images.githubusercontent.com/106331921/170535209-072d1f84-6b4f-4c54-94ed-2348b2c063c0.png)
 
 ![image](https://user-images.githubusercontent.com/106331921/170535267-461d7b50-b0e8-4d63-89db-893dc3f196f9.png)
